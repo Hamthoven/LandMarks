@@ -1,0 +1,17 @@
+//
+//  LandMarksApp.swift
+//  LandMarks
+//
+//  Created by 강유진 on 2022/02/09.
+//
+
+import SwiftUI
+
+@main
+struct LandMarksApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
